@@ -1,0 +1,10 @@
+register User
+login a User
+who am i
+Add new product
+update a product
+get all products
+get single products
+delete products
+
+1. npm i joi => for validate 
